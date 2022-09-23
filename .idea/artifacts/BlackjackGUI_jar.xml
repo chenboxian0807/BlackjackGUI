@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BlackjackGUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BlackjackGUI_jar</output-path>
+    <root id="archive" name="BlackjackGUI.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="BlackjackGUI" />
+    </root>
+  </artifact>
+</component>
